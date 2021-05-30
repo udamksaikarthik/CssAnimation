@@ -6,7 +6,6 @@ body {
 
 .container {
     display: flex;
-    flex-direction: column;
     justify-content: center;
 }
 
@@ -26,7 +25,7 @@ img {
         height: 50px;
     }
     to {
-        width: 1550px;
-        height: 720px;
+        width: 100vw;
+        height: 100vh;
     }
 }
